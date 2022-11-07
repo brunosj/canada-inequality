@@ -1,6 +1,6 @@
 # Voter Turnout and Income Inequality in Canada
 
-The paper can be accessed here: https://www.dropbox.com/s/0p5ykeyxymug2yl/StJacques-Bruno_Inequality-Canada.pdf?dl=0
+The paper can be downloaded from the repo.
 
 ## Abstract
 
