@@ -10,4 +10,4 @@ This paper explores the determinants of political participation in Canada by inv
 
 **Bruno St-Jacques**
 
-bpstjacques@gmail.com
+mail@brunosj.com
